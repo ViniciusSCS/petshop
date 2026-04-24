@@ -1,0 +1,6 @@
+[submodule "petshop_back"]
+	path = petshop_back
+	url = https://github.com/ViniciusSCS/petshop_back.git
+[submodule "petshop_front"]
+	path = petshop_front
+	url = https://github.com/ViniciusSCS/petshop_front.git
